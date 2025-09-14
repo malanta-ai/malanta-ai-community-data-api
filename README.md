@@ -201,5 +201,5 @@ A: Yes - contact us with your use case.
 ---
 
 ## License
-Sample code in this repository is licensed under the Apache License, Version 2.0. See the accompanying [LICENSE](https://github.com/malanta-ai/malanta-ai-community-API/blob/main/LICENSE.txt) file. SPDX-License-Identifier: Apache-2.1.
+Sample code in this repository is licensed under the Apache License, Version 2.0. See the accompanying [LICENSE](https://github.com/malanta-ai/malanta-ai-community-API/blob/main/LICENSE.txt) file. SPDX-License-Identifier: Apache-2.0.
 
