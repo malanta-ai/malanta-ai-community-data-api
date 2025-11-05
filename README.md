@@ -5,6 +5,13 @@
 
 Malanta for the community provides **programmatic access** to company's digital assets and exposure indicators that often feature in responsible disclosure and bug bounty workflows. It’s designed to **augment** your recon and enrichment pipelines, not to replace verification, triage, or vendor disclosure processes.
 
+## Get Access
+
+1. [**Get API Access**](https://api-auth.malanta.ai/oauth/callback) - Click to authenticate with GitHub and receive your API key instantly.
+2. You’ll receive an `x-api-key` for authenticated requests.
+
+>  Do not share keys publicly or embed secrets in code, issues, or logs. Rotate compromised keys immediately. If you need help with access, see [Support](#support).
+
 ---
 
 ## Table of Contents
